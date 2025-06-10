@@ -1,0 +1,13 @@
+﻿  Renderer.cpp
+  AudioSystem.cpp
+C:\p4\Personal\SD\Engine\Code\Engine\Renderer\Renderer.cpp(34,25): warning C4244: 'argument': conversion from 'int' to 'GLubyte', possible loss of data
+C:\p4\Personal\SD\Engine\Code\Engine\Renderer\Renderer.cpp(34,22): warning C4244: 'argument': conversion from 'int' to 'GLubyte', possible loss of data
+C:\p4\Personal\SD\Engine\Code\Engine\Renderer\Renderer.cpp(34,19): warning C4244: 'argument': conversion from 'int' to 'GLubyte', possible loss of data
+C:\p4\Personal\SD\Engine\Code\Engine\Renderer\Renderer.cpp(34,16): warning C4244: 'argument': conversion from 'int' to 'GLubyte', possible loss of data
+C:\p4\Personal\SD\Engine\Code\Engine\Renderer\Renderer.cpp(103,40): warning C4100: 'camera': unreferenced formal parameter
+C:\p4\Personal\SD\Engine\Code\Engine\Audio\AudioSystem.cpp(32,14): error C2511: 'AudioSystem::AudioSystem(void)': overloaded member function not found in 'AudioSystem'
+C:\p4\Personal\SD\Engine\Code\Engine\Audio\AudioSystem.cpp(34,1): error C2550: 'AudioSystem::{ctor}': constructor initializer lists are only allowed on constructor definitions
+  InputSystem.cpp
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Window.cpp

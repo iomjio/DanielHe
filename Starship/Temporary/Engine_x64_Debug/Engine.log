@@ -1,0 +1,44 @@
+﻿  Rgba8.cpp
+  Vec2.cpp
+  Vec3.cpp
+  Camera.cpp
+  Renderer.cpp
+  Clock.cpp
+  DevConsole.cpp
+  EngineCommon.cpp
+  EventSystem.cpp
+  TileHeatMap.cpp
+  Image.cpp
+  NamedStrings.cpp
+  VertexUtils.cpp
+  XmlUtils.cpp
+  AnalogJoystic.cpp
+  InputSystem.cpp
+  AABB2.cpp
+  AABB3.cpp
+  CubicBeizerCurve2D.cpp
+  Easing.cpp
+  Generating Code...
+  Compiling...
+  EulerAngles.cpp
+  IntVec2.cpp
+  Mat44.cpp
+  MathUtils.cpp
+  OBB2.cpp
+  OBB3.cpp
+  Plane.cpp
+  Vec4.cpp
+  BitmapFont.cpp
+  ConstantBuffer.cpp
+  DebugProp.cpp
+  DebugRender.cpp
+  IndexBuffer.cpp
+  Shader.cpp
+  SpriteAnimDefinition.cpp
+  SpriteDefinition.cpp
+  SpriteSheet.cpp
+  Texture.cpp
+  VertexBuffer.cpp
+  Window.cpp
+  Generating Code...
+  Engine.vcxproj -> C:\p4\Personal\SD\Starship\Temporary\Engine_x64_Debug\Engine.lib

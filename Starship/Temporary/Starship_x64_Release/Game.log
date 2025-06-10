@@ -1,0 +1,95 @@
+﻿  App.cpp
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\App.cpp(83,18): warning C4305: '*=': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\App.cpp(145,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Asteroid.cpp
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Asteroid.cpp(59,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\p4\Personal\SD\Starship\Code\Game\Asteroid.cpp(65,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Beetle.cpp
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Beetle.cpp(34,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+  Bullet.cpp
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Debris.cpp
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Debris.cpp(21,12): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+C:\p4\Personal\SD\Starship\Code\Game\Debris.cpp(58,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Debris.cpp(60,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Entity.cpp
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Game.cpp
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(49,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(55,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(160,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(160,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(169,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(169,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(178,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(178,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(192,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(195,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(203,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(328,10): warning C4456: declaration of 'i' hides previous local declaration
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(345,39): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(372,10): warning C4456: declaration of 'i' hides previous local declaration
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(388,38): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(416,10): warning C4456: declaration of 'i' hides previous local declaration
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(432,36): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(452,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(457,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(464,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(471,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(481,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(487,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(494,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(504,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(511,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(517,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(524,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(534,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(541,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(547,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(551,113): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(556,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(564,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(569,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(575,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(579,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(584,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(592,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(597,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(603,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(607,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(612,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(620,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(625,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(634,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(752,12): warning C4456: declaration of 'i' hides previous local declaration
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(804,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\p4\Personal\SD\Starship\Code\Game\Game.cpp(959,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GameCommon.cpp
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Main_Windows.cpp
+C:\p4\Personal\SD\Starship\Code\Game\Main_Windows.cpp(138,35): error C2065: 'APP_NAME': undeclared identifier
+  PlayerShip.cpp
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\PlayerShip.cpp(35,10): warning C4305: '=': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\PlayerShip.cpp(138,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\PlayerShip.cpp(140,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\PlayerShip.cpp(191,26): warning C4305: '*=': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\PlayerShip.cpp(197,26): warning C4305: '*=': truncation from 'double' to 'float'
+  Wasp.cpp
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Engine\Code\Engine\Input\AnalogJoystic.hpp(20,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\p4\Personal\SD\Starship\Code\Game\Wasp.cpp(41,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data

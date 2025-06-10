@@ -1,0 +1,16 @@
+﻿  App.cpp
+  Asteroid.cpp
+  Beetle.cpp
+  Bullet.cpp
+  Debris.cpp
+  Entity.cpp
+  Game.cpp
+  GameCommon.cpp
+  Main_Windows.cpp
+  PlayerShip.cpp
+  Wasp.cpp
+  Generating Code...
+  Game.vcxproj -> C:\p4\Personal\SD\Starship\Temporary\Starship_x64_Debug\Starship_Debug_x64.exe
+  Copying Starship_Debug_x64.exe to C:\p4\Personal\SD\Starship\Run...
+  C:\p4\Personal\SD\Starship\Temporary\Starship_x64_Debug\Starship_Debug_x64.exe -> C:\p4\Personal\SD\Starship\Run\Starship_Debug_x64.exe
+  1 File(s) copied
